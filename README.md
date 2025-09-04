@@ -45,49 +45,12 @@
    - 注册新账号（可使用原账号）
    - 使用新账号登录
 
-## ⚠️ 注意事项
+## BTW
 
-- 运行前请确保 Cursor 已完全退出
-- 建议提前备份重要数据
-- 如遇权限问题，请使用管理员/root权限运行
+无限邮箱
+![Uploading add788b6-36fe-495b-b99c-c9282af94a9f.png…]()
 
-## 🔧 技术说明
 
-### 默认配置路径
-
-<details>
-<summary>Windows</summary>
-
-```ini
-storage_path = %APPDATA%\Cursor\User\globalStorage\storage.json
-sqlite_path = %APPDATA%\Cursor\User\globalStorage\state.vscdb
-cursor_path = %LOCALAPPDATA%\Programs\Cursor\resources\app
-```
-</details>
-
-<details>
-<summary>macOS</summary>
-
-```ini
-storage_path = ~/Library/Application Support/Cursor/User/globalStorage/storage.json
-sqlite_path = ~/Library/Application Support/Cursor/User/globalStorage/state.vscdb
-cursor_path = /Applications/Cursor.app/Contents/Resources/app
-```
-</details>
-
-<details>
-<summary>Linux</summary>
-
-```ini
-storage_path = ~/.config/cursor/User/globalStorage/storage.json
-sqlite_path = ~/.config/cursor/User/globalStorage/state.vscdb
-cursor_path = /usr/share/cursor/resources/app
-```
-</details>
-
-## 📄 许可证
-
-MIT License
 
 ## 🤝 贡献
 
