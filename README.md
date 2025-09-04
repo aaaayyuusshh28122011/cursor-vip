@@ -48,7 +48,9 @@
 ## BTW
 
 无限邮箱
-![Uploading add788b6-36fe-495b-b99c-c9282af94a9f.png…]()
+
+Cloudflare => 托管域名yourdomain.com => 电子邮件 => 电子邮件路由 => 路由规则 => Catch-All 发送到电子邮件 username@gmail.com
+
 
 
 
