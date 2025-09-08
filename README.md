@@ -7,7 +7,7 @@
 1. 确保已安装 Python 3.6+
 2. 下载 Cursor IDE：
    
-   建议使用v1.0.0版本，最新版的机器码逻辑有更新，暂未兼容
+   **建议使用v1.0.0版本，最新版的机器码逻辑有更新，暂未兼容**
    
    - [Linux (.deb)](https://github.com/adysec/cursor/releases/latest) - 支持 Ubuntu 24.04 AMD64
    - [Windows](https://cursor.com)
