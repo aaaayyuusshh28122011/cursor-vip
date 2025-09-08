@@ -8,6 +8,8 @@
 2. 下载 Cursor IDE：
    
    **建议使用v1.0.0版本，最新版的机器码逻辑有更新，暂未兼容**
+
+   如需要使用新版功能，需要用1.0.0版本覆盖安装后，重置机器码，然后再用最新版覆盖安装
    
    - [Linux (.deb)](https://github.com/adysec/cursor/releases/latest) - 支持 Ubuntu 24.04 AMD64
    - [Windows](https://cursor.com)
